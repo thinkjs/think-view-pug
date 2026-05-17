@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-view-pug.
+
 # think-view-pug
 [![Build Status](https://travis-ci.org/thinkjs/think-view-pug.svg?branch=master)](https://travis-ci.org/thinkjs/think-view-pug)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-view-pug/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-view-pug?branch=master)
